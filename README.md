@@ -14,6 +14,13 @@ This project was completed as part of my internship at **Codantix**. The objecti
 
 ---
 
+
+### 📸 Live Preview
+
+🔗 [Click here to view live webpage](https://soha-025.github.io/Codantix-Task-1/)
+
+---
+
 ## 🔧 Technologies Used
 - **HTML5**
 - **Tailwind CSS (via CDN)**
