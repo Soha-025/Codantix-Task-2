@@ -6,11 +6,11 @@ This project was completed as part of my internship at **Codantix**. The objecti
 ---
 
 ## ✨ Features
-- ✅ Semantic HTML layout (`<header>`, `<main>`, `<section>`, `<footer>`)
-- ✅ Responsive design using Tailwind’s utility-first classes
-- ✅ Google Fonts (`Poppins`) integration for modern typography
-- ✅ Three clean sections: Hero, About, Footer
-- ✅ Mobile-friendly and minimal UI
+- Semantic HTML layout (`<header>`, `<main>`, `<section>`, `<footer>`)
+- Responsive design using Tailwind’s utility-first classes
+- Google Fonts (`Poppins`) integration for modern typography
+- Three clean sections: Hero, About, Footer
+- Mobile-friendly and minimal UI
 
 ---
 
