@@ -30,9 +30,9 @@ This project was completed as part of my internship at **Codantix**. The objecti
 
 ## 📚 What I Learned
 During this task, I gained hands-on experience with:
--✅ Using semantic HTML to create meaningful and accessible web structures
--✅ Applying Tailwind CSS utility classes for fast and responsive UI design
--✅ Building a clean layout with proper spacing, color, and typography
+- Using semantic HTML to create meaningful and accessible web structures
+- Applying Tailwind CSS utility classes for fast and responsive UI design
+- Building a clean layout with proper spacing, color, and typography
 
 ---
 
