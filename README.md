@@ -18,7 +18,6 @@ This project was completed as part of my internship at **Codantix**. The objecti
 - **HTML5**
 - **Tailwind CSS (via CDN)**
 - **Google Fonts**
-- **Git & GitHub**
 
 ---
 
