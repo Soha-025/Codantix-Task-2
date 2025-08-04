@@ -35,7 +35,7 @@ During this task, I gained hands-on experience with:
 🎓 Pursuing Bachelor's in Data Science  
 📍 Codentix Intern  
 🌐 [GitHub Profile](https://github.com/Soha-025)
-🏷️ [Linkedin Profile](https://www.linkedin.com/in/soha-adnan/)
+🏷️ [Linkedin Profile](https://www.linkedin.com/in/soha-adnan-36b117349/)
 
 ---
 
