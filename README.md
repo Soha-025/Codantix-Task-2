@@ -1,6 +1,6 @@
 # 💼 Codantix Internship – Task 2
 
-## 📄 Project Overview  
+## Project Overview  
 This project was completed as part of my internship at **Codantix**. The objective of Task 2 was to rebuild a simple web page using **semantic HTML** and apply styling using **Tailwind CSS**. The focus was on clean structure, responsiveness, and visual clarity.
 
 ---
